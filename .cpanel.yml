@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/wwfiberglassindustries.com/public_html/
+    - export DEPLOYPATH=/home/wwfiberglassind/public_html/
     - /bin/cp -R * $DEPLOYPATH
