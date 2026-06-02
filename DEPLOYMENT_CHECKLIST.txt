@@ -1,0 +1,39 @@
+===============================================
+DEPLOYMENT CHECKLIST - WWFG Website
+===============================================
+
+BEFORE UPLOADING:
+✓ Check all image files are in the folder
+✓ Verify index.html is present
+✓ Test the site locally (open index.html in browser)
+
+FILES TO UPLOAD TO public_html/:
+✓ index.html (main website file)
+✓ logo.png.jpeg
+✓ fiberglass frp gre blank pipe.png.jpeg
+✓ fiberglass slotted pipe.png.jpeg
+✓ fiberglass fittings.png.jpeg
+✓ fiberglass gratings.png.jpeg
+✓ fiberglass rooms.png.jpeg
+✓ fiberglass guard room.png.jpeg
+✓ fiberglass tanks.png.jpeg
+✓ play area.png.jpeg
+✓ frp.png.png
+✓ DHA LAHORE.png.jpeg
+✓ nlc.png
+✓ wasa.png.jpeg
+✓ prmsc.png.jpeg
+✓ dha city.png.jpeg
+
+AFTER UPLOADING:
+1. Visit https://wwfiberglassindustries.com
+2. Press F12 (Developer Tools)
+3. Go to "Console" tab
+4. Check for red error messages
+5. If images don't show, you may need to re-upload them
+
+DOMAIN: wwfiberglassindustries.com
+CONTACT: +92 321 945 6399 (WhatsApp)
+EMAIL: waterwellfiberglassindustries@gmail.com
+
+===============================================
